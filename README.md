@@ -1,6 +1,3 @@
-# We will change this README file content
-
-
 # Phase 2 Project Description
 
 Another module down - you're almost half way there!
