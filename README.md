@@ -283,6 +283,3 @@ Here are some suggestions for creating your GitHub repository:
 ## Summary
 
 This is your first modeling project! Take what you have learned in Phase 2 to create a project with a more sophisticated analysis than you completed in Phase 1. You will build on these skills as we move into the predictive machine learning mindset in Phase 3. You've got this!
-
-
-### Testing the code
