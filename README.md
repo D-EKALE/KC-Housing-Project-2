@@ -1,4 +1,4 @@
-### Predicting Home Prices with Linear Regression
+### Predicting Home Sale Prices in King County.
 This project uses linear regression models to analyze the factors that influence home prices in the King County area. The goal of this project is to provide actionable insights and recommendations to stakeholders in the real estate industry.
 
 ### Business Problem
